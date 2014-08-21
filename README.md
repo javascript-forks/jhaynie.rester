@@ -8,6 +8,8 @@ You can deploy to Node.ACS.  Just type:
 	$ acs login
 	$ acs publish
 
+You can see a demo of this running at https://bb0423fb58dc9db40f648765aba03683ba77f1b4.cloudapp.appcelerator.com/
+
 
 License
 -------
