@@ -1,0 +1,25 @@
+{
+  "name": "rester",
+  "version": "0.1.0",
+  "description": "",
+  "framework": "none",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "maintainers": [],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": false,
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "express": "^4.8.5",
+    "highlight.js": "^8.2.0",
+    "lodash": "^2.4.1",
+    "request": "^2.40.0"
+  },
+  "license": "",
+  "private": true
+}
